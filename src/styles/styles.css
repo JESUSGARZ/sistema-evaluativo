@@ -68,4 +68,25 @@ main{
     font-size: 18px;
     
 }
+.next__container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.next__button{
+    box-shadow: 0px 4px 5px 0px #00000040;
+    width: 150px;
+    height: 35px;
+    border-radius: 16px;
+    border: none;
+    color: black;
+    background-color: #C2C2C2;
+    margin: 20px 0;
+    font-size: 16px;
+    
+}
+.next__button:hover {
+    box-shadow: none ;
+}
 

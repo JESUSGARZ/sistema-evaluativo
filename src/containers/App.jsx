@@ -15,7 +15,12 @@ const App = () => {
             <div>
                 <main >
                     <Questions/>
-                    <button onClick={() => handleShow()}> Siguiente Examen</button>
+                    <div className="next__container">
+                        <button className="next__button" onClick={() => handleShow()}> 
+                        Siguiente Examen
+                        </button>
+                    </div>
+                    
                 </main>  
             </div>
         )
