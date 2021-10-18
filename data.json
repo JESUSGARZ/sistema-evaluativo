@@ -1,0 +1,107 @@
+{
+    "data":{
+        "preguntas":[
+            {
+                "pregunta":"El equinoccio de otono tiene lugar el:",
+                "opciones": [
+                   {"id":"i1","opcion": "21 de junio"},
+                   {"id":"i2","opcion": "21 de agosto"},
+                   {"id":"i3","opcion": "21 de julio"},
+                   {"id":"1c","opcion": "21 de septiembre"}
+                ]
+            },
+            {
+                "pregunta":"Cual es la onomatopeya del pajaro?",
+                "opciones": [
+                   {"id":"i21","opcion": "Mu"},
+                   {"id":"i22", "opcion":"Miau"},
+                   {"id":"i23","opcion": "Guau"},
+                   {"id":"2c","opcion": "Pio"}
+                ]
+            },
+            {
+                "pregunta":" Quien realizo la fachada de la Basilica de Santa Maria Novella de Florencia?",
+                "opciones":[ 
+                   {"id":"i31","opcion": "Bernini"},
+                   {"id":"i32","opcion": "Brunelleschi"},
+                   {"id":"3c","opcion": "Alberti"},
+                   {"id":"i33","opcion": "Sagnier"}
+                ]
+                    
+    
+            },
+            {
+                "pregunta":" En que ciudad se encuentra el Museo del Louvre?",
+                "opciones": [ 
+                   {"id":"i41","opcion": "Madrid"},
+                   {"id":"4c","opcion": "Paris"},
+                   {"id":"i42","opcion": "Milan"},
+                   {"id":"i43","opcion": "Londres"}
+                ]
+            },
+            {
+                "pregunta":"El gentilicio de la provincia de Zaragosa es:",
+                "opciones": [
+                    {"id":"5c","opcion": "Zaragozano"},
+                    {"id":"i51","opcion": "Zaragoniano"},
+                    {"id":"i52","opcion": "Zaragocense"},
+                    {"id":"i53","opcion": "Zaragocico"}
+                ]
+            }
+       
+        ],
+        "ciencias":[
+            {
+                "pregunta":"Cuales son los tipos fundamentales de energia ?",
+                "opciones": [
+                   {"id":"i1","opcion": "Electrica"},
+                   {"id":"i2","opcion": "Solar"},
+                   {"id":"i3","opcion": "Eolica"},
+                   {"id":"1c","opcion": "Potencial y Cinetica"}
+                ]
+            },
+            {
+                "pregunta":"Como se llama la teoria que considera que todos los organismos descendemos del mismo ancestro?",
+                "opciones": [
+                   {"id":"i21","opcion": "Creacionismo"},
+                   {"id":"i22", "opcion":"Gradualismo"},
+                   {"id":"i23","opcion": "Evolucion Humana"},
+                   {"id":"2c","opcion": "Darwinismo"}
+                ]
+            },
+            {
+                "pregunta":" El proceso mediante el cual se generan moleculas organicas a partir de sustancias inorganicas usando como fuente de energia el sol es:",
+                "opciones":[ 
+                   {"id":"i31","opcion": "El catabolismo"},
+                   {"id":"i32","opcion": "El anabolismo"},
+                   {"id":"3c","opcion": "La fotosintesis"},
+                   {"id":"i33","opcion": "Proceso fotovoltaico"}
+                ]
+                    
+    
+            },
+            {
+                "pregunta":" La velocidad a la que viaja la luz es:",
+                "opciones": [ 
+                   {"id":"i41","opcion": "300.000 m/s"},
+                   {"id":"4c","opcion": "300.000 km/s"},
+                   {"id":"i42","opcion": "30.000 km/h"},
+                   {"id":"i43","opcion": "30.000 m/s"}
+                ]
+            },
+            {
+                "pregunta":"Como se llaman las particulas subatomicas con carga electrica negativa?",
+                "opciones": [
+                    {"id":"5c","opcion": "Electrones"},
+                    {"id":"i51","opcion": "Protones"},
+                    {"id":"i52","opcion": "Neutrones"},
+                    {"id":"i53","opcion": "omios"}
+                ]
+            }
+       
+        ]
+    }
+   
+       
+    
+}
