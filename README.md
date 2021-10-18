@@ -18,7 +18,7 @@ Debes ingresar a la aplicacion completar el examen y se iran cargando tus aciert
 
 ## URL
 
- [Prueba la APP aqui](https://app.netlify.com/sites/cocky-hodgkin-e5e89d/deploys/616d957eecf01c000760c11d)
+ [Prueba la APP aqui](https://616d957eecf01c000760c11d--cocky-hodgkin-e5e89d.netlify.app/)
 
 <br>
 
