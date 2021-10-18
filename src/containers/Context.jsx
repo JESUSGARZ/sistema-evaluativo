@@ -6,7 +6,7 @@ export const AppContext= createContext({});
 
 
 const ContextProvider =({children}) => {
-  const dataFromApi = useData(' http://localhost:4000/data');
+  const dataFromApi = useData('./data.json');
 
 
 
